@@ -12,7 +12,7 @@
 01
 
 **Titel / Thema:**\
-**Parkinson oder doch etwas anderes? -- Red Flags erkennen**
+**Parkinson oder doch etwas anderes? Red Flags erkennen**
 
 **Referent:**\
 Becker
