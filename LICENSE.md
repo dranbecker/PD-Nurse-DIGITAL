@@ -1,6 +1,6 @@
 # Rechtevorbehalt – All Rights Reserved
 
-**© 2026 [Vollständiger Name des Rechteinhabers]. Alle Rechte vorbehalten.**
+**© 2026 Dr. Andreas BECKER. Alle Rechte vorbehalten.**
 
 ## 1. Geltungsbereich
 
