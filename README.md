@@ -8,7 +8,7 @@ Die öffentliche Zugänglichkeit dieses Repositories bedeutet **nicht**, dass di
 
 ## Urheberrecht und Nutzungsrechte
 
-**© 2026 [Vollständiger Name des Rechteinhabers]. Alle Rechte vorbehalten.**
+**© 2026 Dr. Andreas BECKER. Alle Rechte vorbehalten.**
 
 Soweit nicht bei einzelnen Dateien ausdrücklich anders angegeben, werden für die hier veröffentlichten, urheberrechtlich geschützten eigenen Inhalte **keine zusätzlichen Nutzungsrechte eingeräumt** („All Rights Reserved“).
 
